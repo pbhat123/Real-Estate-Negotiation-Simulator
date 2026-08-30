@@ -2,7 +2,6 @@
 
 > **Tagline:** Building reliable multi-agent systems (buyer + seller agents) with MCP, A2A, ACP, and explicit stateful orchestration..
 
-**Goal:**
 Negotiate real estate deals autonomously, but never let the LLM be the last line of defense on budget, secrets, or high-stakes approval.
 
 ---
