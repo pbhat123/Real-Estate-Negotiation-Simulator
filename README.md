@@ -1,4 +1,4 @@
-#🧠 **Real Estate Negotiation Simulator: buyer + seller agents**
+# 🧠 **Real Estate Negotiation Simulator: buyer + seller agents**
 
 > **Tagline:** Building reliable multi-agent systems (buyer + seller agents) with MCP, A2A, ACP, and explicit stateful orchestration..
 
